@@ -4,9 +4,9 @@
 
 Find out more about me & feel free to connect with me here:
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
+<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Samuel%20Colon) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Samuel%20Colon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-colon/)](https://www.linkedin.com/in/samuel-colon/)
+[![Linkedin Badge](https://img.shields.io/badge/-Samuel%20Colon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-colon/)] target="_blank" (https://www.linkedin.com/in/samuel-colon/)
 [![Medium Badge](https://img.shields.io/badge/Samuel%20Colon-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@samuel.colon.jr)](https://medium.com/@samuel.colon.jr)
 [![Gmail Badge](https://img.shields.io/badge/-Samuel.Colon.Jr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Samuel.Colon.Jr@gmail.com)](mailto:Samuel.Colon.Jr@gmail.com)
 
